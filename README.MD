@@ -1,4 +1,4 @@
-https://stackblitz.com/edit/stackblitz-starters-8qaphyv7?file=package.json
+## live code and web view [click here](https://stackblitz.com/~/github.com/tauhidul0821/dynamic-component-demo?file=README.MD)
 
 ```ts
 // main.ts
